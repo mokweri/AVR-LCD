@@ -32,7 +32,7 @@ int main(void)
 				
 		while (loged_in == false)
 		{
-			LCD_PrintString("Enter Password:",0,0);
+			LCD_PrintString("Enter Password Here:",0,0);
 				int i=0;			
 				while(i<4)
 				{
